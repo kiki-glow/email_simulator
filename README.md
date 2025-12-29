@@ -42,30 +42,30 @@ This project was built as part of the **freeCodeCamp Python Certification** labs
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-email-system.git
+   git clone https://github.com/kiki-glow/email_simulator.git
 Navigate into the project folder:
 
 bash
 Copy code
-cd python-email-system
+cd email_simulator
 Run the program:
 
 bash
 Copy code
-python main.py
+python email_simulator.py
 📄 Example Output
 text
 Copy code
 Email sent from Tory to Ramy!
 
 Ramy's Inbox:
-1. [Unread] From: Tory | Subject: Hello | Time: 2025-01-01 14:30
+1. [Unread] From: Tory | Subject: Hello | Time: 2025-12-29 11:30
 
 --- Email ---
 From: Tory
 To: Ramy
 Subject: Hello
-Received: 2025-01-01 14:30
+Received: 2025-12-29 11:30
 Body: Hi Ramy, just saying hello!
 ------------
 📚 Learning Source
