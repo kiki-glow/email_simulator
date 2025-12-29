@@ -83,15 +83,15 @@ class User:
         self.inbox.delete_email(index)
 
 def main():
-    Glory = User('Glory')
-    Dan = User('Dan')        
+    glory = User('Glory')
+    dan = User('Dan')        
     
-    Glory.send_email(Dan, 'Hello', 'Hi Dan, just saying hello!')
-    Dan.send_email(Glory, 'Re: Hello', 'Hi Glory, hope you are fine.')
+    glory.send_email(dan, 'Hello', 'Hi Dan, just saying hello!')
+    dan.send_email(glory, 'Re: Hello', 'Hi Glory, hope you are fine.')
     
-    Dan.check_inbox()
-    Dan.read_email(1)
-    Dan.delete_email(1)
-    Dan.check_inbox()
+    dan.check_inbox()
+    dan.read_email(1)
+    dan.delete_email(1)
+    dan.check_inbox()
 if __name__ == '__main__':
     main()
