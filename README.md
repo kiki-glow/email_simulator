@@ -40,7 +40,7 @@ This project was built as part of the **freeCodeCamp Python Certification** labs
 
 ## ▶️ How to Run
 
-1. Clone the repository:
+1. Clone the reposiGlory:
    ```bash
    git clone https://github.com/kiki-glow/email_simulator.git
 Navigate into the project folder:
@@ -56,17 +56,17 @@ python email_simulator.py
 📄 Example Output
 text
 Copy code
-Email sent from Tory to Ramy!
+Email sent from Glory to Dan!
 
-Ramy's Inbox:
-1. [Unread] From: Tory | Subject: Hello | Time: 2025-12-29 11:30
+Dan's Inbox:
+1. [Unread] From: Glory | Subject: Hello | Time: 2025-12-29 11:30
 
 --- Email ---
-From: Tory
-To: Ramy
+From: Glory
+To: Dan
 Subject: Hello
 Received: 2025-12-29 11:30
-Body: Hi Ramy, just saying hello!
+Body: Hi Dan, just saying hello!
 ------------
 📚 Learning Source
 This project is part of the freeCodeCamp Python Certification:
