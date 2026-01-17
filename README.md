@@ -81,8 +81,6 @@ Copy code
 
 ---
 
-## 🏷️ Optional Badges (add later if you want)
-
 ```markdown
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![OOP](https://img.shields.io/badge/OOP-Object--Oriented-green)
